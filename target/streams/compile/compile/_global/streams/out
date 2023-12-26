@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\Users\daron\Downloads\workspace\Programas Scala\Ti2 Discretas\ti_2\src\main\scala\ui\Main.scala:16:11 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m16 |[0m    reader.loadFromTxt([31m"input.txt"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    value loadFromTxt is not a member of data.Reader[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\Users\daron\Downloads\workspace\Programas Scala\Ti2 Discretas\ti_2\src\main\scala\ui\Main.scala:17:27 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m17 |[0m    [33mval[0m [36minputData[0m = reader.getData() [34m//Lista[s][0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    value getData is not a member of data.Reader[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
